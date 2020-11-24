@@ -1,7 +1,7 @@
-![build](https://github.com/ltpitt/java-spring-cloud-drive/workflows/build/badge.svg)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-cloud-drive)](https://github.com/ltpitt/java-spring-cloud-drive/issues)
-![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-cloud-drive)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-cloud-drive?foo=bar)
+![build](https://github.com/ltpitt/c-photon-toilet-fan/workflows/build/badge.svg)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/c-photon-toilet-fan)](https://github.com/ltpitt/java-spring-cloud-drive/issues)
+![Total Commits](https://img.shields.io/github/last-commit/ltpitt/c-photon-toilet-fan)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/c-photon-toilet-fan?foo=bar)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
