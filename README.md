@@ -1,4 +1,3 @@
-![build](https://github.com/ltpitt/c-photon-toilet-fan/workflows/build/badge.svg)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/c-photon-toilet-fan)](https://github.com/ltpitt/java-spring-cloud-drive/issues)
 ![Total Commits](https://img.shields.io/github/last-commit/ltpitt/c-photon-toilet-fan)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/c-photon-toilet-fan?foo=bar)
